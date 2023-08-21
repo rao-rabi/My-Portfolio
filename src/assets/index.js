@@ -15,12 +15,15 @@ import tailwind from "./tech/tailwind.png";
 import cplus from "./tech/Cplus.png";
 import bootstrap from "./tech/bootstrap.png";
 import photoshop from "./tech/photoshop.png";
-import ubuntu from "./tech/ubuntu.png"
+import ubuntu from "./tech/ubuntu.png";
 
-import ux from "./company/ux.png"
-import ux2 from "./company/user-experience.png"
+import ux from "./company/ux.png";
+import ux2 from "./company/user-experience.png";
 
-
+import facebook from "./socialIcons/facebook-logo.png";
+import instagram from "./socialIcons/instagram-logo.png";
+import linkedIn from "./socialIcons/linkedin-logo.png";
+import gitHub from "./socialIcons/github.png"
 
 
 
@@ -51,4 +54,8 @@ export {
   egshop,
   bankPortal,
   creaticAgency,
+  facebook,
+  instagram,
+  linkedIn,
+  gitHub
 };
