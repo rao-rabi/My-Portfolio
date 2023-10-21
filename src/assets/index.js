@@ -11,6 +11,7 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import reactjs from "./tech/reactjs.png";
+import python from "./tech/python.png"
 import tailwind from "./tech/tailwind.png";
 import cplus from "./tech/Cplus.png";
 import bootstrap from "./tech/bootstrap.png";
@@ -30,6 +31,9 @@ import gitHub from "./socialIcons/github.png"
 import egshop from "./egshop.png";
 import bankPortal from "./bankPortal.png";
 import creaticAgency from "./creaticAgency.png";
+import bookStore from "./bookStore.png";
+import todo from "./todo.png";
+import currency from "./currency.png";
 
 export {
   logo,
@@ -46,6 +50,7 @@ export {
   ubuntu,
   javascript,
   reactjs,
+  python,
   tailwind,
   cplus,
   bootstrap,
@@ -54,6 +59,9 @@ export {
   egshop,
   bankPortal,
   creaticAgency,
+  todo,
+  currency,
+  bookStore,
   facebook,
   instagram,
   linkedIn,

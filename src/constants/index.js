@@ -9,6 +9,8 @@ import {
   html,
   css,
   tailwind,
+  reactjs,
+  python,
   git,
   figma,
   ux,
@@ -16,6 +18,9 @@ import {
   egshop,
   bankPortal,
   creaticAgency,
+  todo,
+  currency,
+  bookStore,
 } from "../assets";
 
 export const navLinks = [
@@ -39,7 +44,7 @@ const services = [
     icon: web,
   },
   {
-    title: "JavaScript Developer",
+    title: "React Developer",
     icon: mobile,
   },
 ];
@@ -66,6 +71,14 @@ const technologies = [
     icon: bootstrap,
   },
   {
+    name:"React",
+    icon: reactjs,
+  },
+  {
+    name:"Python",
+    icon: python,
+  },
+  {
     name: "C++",
     icon: cplus,
   },
@@ -89,10 +102,22 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer",
+    title: "Associate Software Engineer at BitBeaver",
     icon: ux,
     iconBg: "#383E56",
-    date: "December 2021 - Present",
+    date: "July 2023 - October 2023",
+    points: [
+      "Developing and maintaining web applications using JavaScript and other related technologies.",
+      "Took part in developing frontend as a Team member",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Learnt OOP deep concepts and Python for Back-end Development.",
+    ],
+  },
+  {
+    title: "Frontend Developer at TechnoKloud",
+    icon: ux,
+    iconBg: "#383E56",
+    date: "September 2022 - Present",
     points: [
       "Developing and maintaining web applications using JavaScript and other related technologies.",
       "Collaborating with other developers to create high-quality products.",
@@ -116,6 +141,69 @@ const experiences = [
   },
 ];
 const projects = [
+  {
+    name: "Book Store",
+    description:
+      "Web-based platform that's Frontend Design of a Book Store which have different books provided using Api to read for users designed using ReactJS.",
+    tags: [
+      {
+        name: "ReactJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Context Api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: bookStore,
+    source_code_link: "https://github.com/rao-rabi/Book-Store.git",
+  },
+  {
+    name: "Todo Application",
+    description:
+      "Web-based platform that's Frontend Design of a todo application where user can add, delete, update and marks todos as completed.",
+    tags: [
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Context Api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todo,
+    source_code_link: "https://github.com/rao-rabi/TODO-Application-using-Context-Api.git",
+  },
+  {
+    name: "Currency Convertor",
+    description:
+      "Web-based platform that's Frontend Design of a currency converter where you can convert any currency value to an other currency.",
+    tags: [
+      {
+        name: "ReactJS",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Custom Hooks",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: currency,
+    source_code_link: "https://github.com/rao-rabi/Currency-Convertor.git",
+  },
   {
     name: "EG Shop",
     description:

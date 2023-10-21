@@ -41,11 +41,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-[17px] text-secondary max-w-3xl leading-[30px]"
       >
-        I'm a skilled Frontend developer with experience in HTML,CSS, CSS
-        libraries and JavaScript, and learning Js libraries React and Three.js.
-        I'm a quick learner and collaborate closely with clients to create
+        I&#39;m a skilled Frontend developer with experience in HTML,CSS, CSS
+        libraries, JavaScript and React, and learning Js library Three.js.
+        I&#39;m a quick learner and collaborate closely with clients to create
         efficient, scalable, and user-friendly solutions that solve real-world
-        problems. Let's work together to bring your ideas to life!
+        problems. Let&#39;s work together to bring your ideas to life!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
