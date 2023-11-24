@@ -226,25 +226,25 @@ const projects = [
     source_code_link: "https://github.com/rao-rabi/EG-SHOP-Updated-Version.git",
   },
   {
-    name: "Bank Portal",
+    name: "Crud using Moke Api",
     description:
-      "This is a bank Management portal in which user can create his bank account, desposit or withdraw his cash & Balance is maintained. Other Pages like News,FAQ are added.",
+      "This is like a Crud Application in which user can create a person, update, view or delete that person. Moke Api is used to manage user data and Redux toolkit is used.",
     tags: [
       {
-        name: "Html",
+        name: "TailwindCSS",
         color: "blue-text-gradient",
       },
       {
-        name: "CSS & Bootstrap",
+        name: "JavaScript",
         color: "green-text-gradient",
       },
       {
-        name: "JavaScript",
+        name: "React & Redux",
         color: "pink-text-gradient",
       },
     ],
     image: bankPortal,
-    source_code_link: "https://github.com/rao-rabi/Bank-Version-2.git",
+    source_code_link: "https://github.com/rao-rabi/Crud-and-Filter-using-RTK.git",
   },
   {
     name: "Creative Agency Portfolio",
