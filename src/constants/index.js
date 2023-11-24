@@ -155,12 +155,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Context Api",
+        name: "UseReducer",
         color: "pink-text-gradient",
       },
     ],
     image: bookStore,
-    source_code_link: "https://github.com/rao-rabi/Book-Store.git",
+    source_code_link: "https://books-store-with-reducer.vercel.app/",
   },
   {
     name: "Todo Application",
