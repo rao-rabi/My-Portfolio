@@ -40,11 +40,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Frontend Web Developer",
+    title: "React Developer",
     icon: web,
   },
   {
-    title: "React Developer",
+    title: "React Native Developer",
     icon: mobile,
   },
 ];
@@ -102,6 +102,17 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Frontend Developer at MAAQ Services",
+    icon: ux2,
+    iconBg: "#383E56",
+    date: "December 2023 - Presnt",
+    points: [
+      "Developing and maintaining web & app applications using JavaScript and other related technologies.",
+      "Took part in developing frontend as a Team member",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+    ],
+  },
+  {
     title: "Associate Software Engineer at BitBeaver",
     icon: ux,
     iconBg: "#383E56",
@@ -122,21 +133,6 @@ const experiences = [
       "Developing and maintaining web applications using JavaScript and other related technologies.",
       "Collaborating with other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
-    ],
-  },
-  {
-    title: "Personal Project-Driven Frontend Developer",
-    icon: ux2,
-    iconBg: "#383E56",
-    date: "December 2021 - Present",
-    points: [
-      "Self-motivated frontend developer with an array of personal projects showcasing JavaScript , React.js and related technologies expertise.",
-      "Extensive hands-on experience building diverse web applications to sharpen technical skills and creativity.",
-      "Proficient in crafting responsive designs for seamless user experiences across various devices.",
-      "Actively seek and incorporate feedback from online communities to refine coding practices.",
-      "Demonstrated version control skills through maintaining Git repositories for projects.",
-      "Committed to ongoing learning through coding challenges, tutorials, and industry updates.",
-      "Portfolio reflects dedication, technical proficiency, and passion for frontend development.",
     ],
   },
 ];
