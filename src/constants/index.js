@@ -102,10 +102,21 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Associate Software Engineer at Askus Solution",
+    icon: ux,
+    iconBg: "#383E56",
+    date: "July 2024 - Present",
+    points: [
+      "Developing and maintaining web and mobile applications using React and other related technologies.",
+      "Took part in developing Multiple Websites and Management Systems as a Team member",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+    ],
+  },
+  {
     title: "Frontend Developer at MAAQ Services",
     icon: ux2,
     iconBg: "#383E56",
-    date: "December 2023 - Presnt",
+    date: "December 2023 - July 2024",
     points: [
       "Developing and maintaining web & app applications using JavaScript and other related technologies.",
       "Took part in developing frontend as a Team member",

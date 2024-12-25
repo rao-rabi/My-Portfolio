@@ -41,8 +41,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-[17px] text-secondary max-w-3xl leading-[30px]"
       >
-        I&#39;m a skilled Frontend developer with experience in HTML,CSS, CSS
-        libraries, JavaScript and React, and learning Js library Three.js.
+        I&#39;m a skilled Associate Software Engineer with experience in HTML,CSS, CSS
+        libraries, JavaScript and React, Next JS, Node Js, Python, Django and learning Js library Three.js.
         I&#39;m a quick learner and collaborate closely with clients to create
         efficient, scalable, and user-friendly solutions that solve real-world
         problems. Let&#39;s work together to bring your ideas to life!
